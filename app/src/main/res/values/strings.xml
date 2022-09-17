@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News-DYT</string>
+    <string name="news_article_url">NewsArticleURL</string>
+</resources>
